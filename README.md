@@ -17,23 +17,23 @@ Here is the actual developed project. Usually it will be a Visual Studio Solutio
 ## Project Checklist
 
 ### First Deliverable
-- [ ] Overview description
-- [ ] Description of the operation environment
-- [ ] Development environment
-- [ ] Functional requirements
-- [ ] Non-functional requirements
-- [ ] Constraints
-- [ ] **Versions table**
+- [x] Overview description
+- [x] Description of the operation environment
+- [x] Development environment
+- [x] Functional requirements
+- [x] Non-functional requirements
+- [x] Constraints
+- [x] **Versions table**
 
 ### Second Deliverable
 #### Addition to SRD
 - [ ] Logic model of the system (flow diagrame)
 - [ ] Class diagrame
 #### Test plan
-- [ ] Table of contents
-- [ ] **Versions table**
-- [ ] Test process requirements
-- [ ] At least 10 tests
+- [x] Table of contents
+- [x] **Versions table**
+- [x] Test process requirements
+- [x] At least 10 tests
 
 
 # Setup Instructions
